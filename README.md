@@ -1,3 +1,3 @@
 # Active Directory Red Team Tools
 
-Enumeration scripts for limited-privilege accounts
+Enumeration scripts for low-privilege accounts
