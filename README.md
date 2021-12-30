@@ -1,2 +1,3 @@
-# ActiveDirectory
+# Active Directory
 Active Directory Red Team Tools
+Enumeration scripts for limited-privilege accounts
